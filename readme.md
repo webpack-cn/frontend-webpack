@@ -32,7 +32,7 @@ Bug tracker
 
 Have a bug? Please create an issue here on GitHub:
 
-https://github.com/jaylinski/frontend-webpack/issues
+https://github.com/webpack-cn/frontend-webpack/issues
 
 
 Copyright and license
