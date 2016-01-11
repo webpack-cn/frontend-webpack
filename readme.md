@@ -8,7 +8,7 @@ Installation
 ------------
 
 1. Install [node.js](http://nodejs.org/)
-2. Clone the git repo `git clone https://github.com/jaylinski/frontend-webpack.git`
+2. Clone the git repo `git clone https://github.com/webpack-cn/frontend-webpack.git
 3. Install Gulp `npm install -g gulp`
 4. Install dependencies `npm install`
 
